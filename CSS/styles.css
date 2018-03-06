@@ -1,9 +1,12 @@
 body{
 margin: 0;
-font-family: 'Handlee', Open Sans;
+font-family: 'Montserrat', Open Sans;
 }
 .container-fluid {
   padding-top: 0;
+}
+#capt{
+  color: #F15A29
 }
 
 /*-------MEDIA, OVERLAY AND TEXT----------*/
