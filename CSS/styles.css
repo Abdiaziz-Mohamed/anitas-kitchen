@@ -1,11 +1,9 @@
+body{
 margin: 0;
 font-family: 'Montserrat', Open Sans;
 }
-.container-fluid {
   padding-top: 0;
-}
-#capt{
-  color: #F15A29
+  color:
 }
 
 /*-------MEDIA, OVERLAY AND TEXT----------*/
